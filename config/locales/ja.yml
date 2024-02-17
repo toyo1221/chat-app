@@ -2,3 +2,10 @@ ja:
   time:
     formats:
       default: "%Y/%m/%d %H:%M:%S"
+  activerecord:
+    errors:
+      models:
+        message:
+          attributes:
+            content:
+              blank: "を入力してください"
